@@ -1,0 +1,151 @@
+AlberichAlberich's Pointed Hat 	1.8 	1.4 	1.8 	1.8 	4.6 	4.2 	4.4 	4.6 	1.7
+Albinauric Mask IconAlbinauric Mask 	4.0 	3.1 	4.0 	3.8 	2.5 	3.1 	2.1 	2.5 	3.8
+All-Knowing Helm IconAll-Knowing Helm 	4.6 	4.2 	4.8 	4.2 	4.4 	3.4 	3.6 	3.1 	4.6
+Aristocrat Hat IconAristocrat Hat 	3.1 	3.1 	2.8 	3.1 	3.8 	4.0 	3.8 	3.1 	3.0
+Aristocrat Headband IconAristocrat Headband 	1.9 	1.9 	1.9 	1.6 	4.0 	3.6 	3.8 	4.0 	1.2
+Ash-of-War Scarab IconAsh-of-War Scarab 	-5.8 	-5.6 	-5.8 	-5.8 	-4.9 	-4.9 	-4.9 	-5.1 	5.1
+Astrologer Hood IconAstrologer Hood 	1.8 	1.4 	1.4 	1.4 	4.6 	4.5 	4.6 	4.5 	1.7
+AzurAzur's Glintstone Crown 	2.8 	2.3 	2.5 	2.5 	5.8 	4.6 	4.7 	5.0 	3.6
+Bandit Mask IconBandit Mask 	2.8 	3.1 	3.1 	3.1 	3.1 	3.4 	3.6 	3.1 	3.0
+Banished Knight Helm IconBanished Knight Helm 	6.8 	5.4 	7.0 	6.3 	4.8 	4.8 	4.6 	4.7 	7.5
+Beast Champion Helm IconBeast Champion Helm 	6.3 	5.9 	6.8 	6.7 	4.6 	4.9 	4.6 	4.8 	7.5
+Black Hood IconBlack Hood 	2.8 	3.1 	3.1 	3.1 	3.1 	3.4 	3.6 	3.1 	3.0
+Black Knife Hood IconBlack Knife Hood 	3.8 	3.6 	4.2 	4.2 	2.8 	3.1 	2.1 	3.8 	3.8
+Black Wolf Mask IconBlack Wolf Mask 	5.2 	4.6 	5.2 	5.5 	4.0 	4.5 	3.6 	4.2 	5.9
+Blackflame Monk Hood IconBlackflame Monk Hood 	4.4 	3.4 	4.6 	4.2 	2.8 	4.4 	2.1 	2.8 	4.0
+BlackguardBlackguard's Iron Mask 	5.8 	4.4 	6.1 	5.5 	4.2 	4.4 	4.0 	4.5 	6.2
+Bloodhound Knight Helm IconBloodhound Knight Helm 	4.4 	4.0 	5.0 	4.8 	3.4 	3.6 	2.5 	3.6 	4.6
+Bloodsoaked Mask IconBloodsoaked Mask 	1.8 	1.8 	1.8 	2.1 	4.6 	4.4 	4.5 	4.6 	2.2
+Blue Cloth Cowl IconBlue Cloth Cowl 	2.8 	2.8 	2.3 	2.3 	3.1 	3.4 	3.8 	2.8 	2.7
+Blue Festive Hood IconBlue Festive Hood 	1.4 	1.4 	2.1 	1.8 	4.5 	4.0 	4.5 	4.9 	1.7
+Blue Silver Mail Hood IconBlue Silver Mail Hood 	4.2 	3.1 	4.4 	3.8 	3.6 	3.4 	2.5 	2.5 	3.8
+Briar Helm IconBriar Helm 	4.6 	4.0 	4.8 	4.4 	3.8 	4.4 	3.1 	3.8 	5.1
+Bull-Goat Helm IconBull-Goat Helm 	7.5 	7.4 	6.7 	6.7 	4.7 	4.8 	5.3 	4.6 	11.3
+Carian Knight Helm IconCarian Knight Helm 	4.2 	3.8 	4.4 	4.2 	4.4 	4.2 	3.4 	4.2 	4.6
+Cerulean Tear Scarab IconCerulean Tear Scarab 	-5.8 	-5.6 	-5.8 	-5.8 	-4.9 	-4.9 	-4.9 	-5.1 	5.1
+Chain Coif IconChain Coif 	4.2 	3.1 	4.6 	4.2 	2.5 	3.8 	2.1 	2.8 	3.8
+Champion Headband IconChampion Headband 	2.3 	3.1 	2.5 	2.8 	2.8 	3.4 	3.6 	3.4 	2.7
+Cleanrot Helm IconCleanrot Helm 	5.2 	4.8 	5.8 	6.3 	4.5 	4.6 	4.0 	4.8 	6.4
+CommonerCommoner's Headband 	0.9 	1.8 	1.8 	1.4 	4.4 	4.0 	4.2 	4.4 	1.4
+CommonerCommoner's Headband (Altered) 	0.1 	1.1 	1.1 	0.6 	3.9 	3.5 	3.7 	3.9 	0.7
+Confessor Hood IconConfessor Hood 	2.8 	3.6 	2.8 	3.1 	3.8 	3.8 	4.2 	3.4 	3.3
+ConsortConsort's Mask 	2.8 	2.8 	2.5 	2.5 	5.0 	4.8 	4.8 	5.0 	3.6
+Crimson Hood IconCrimson Hood 	1.4 	1.8 	1.4 	1.8 	4.6 	4.6 	4.5 	4.6 	1.7
+Crimson Tear Scarab IconCrimson Tear Scarab 	-5.8 	-5.6 	-5.8 	-5.8 	-4.9 	-4.9 	-4.9 	-5.1 	5.1
+Crucible Axe Helm IconCrucible Axe Helm 	6.3 	5.0 	6.1 	6.1 	4.6 	4.6 	4.0 	4.8 	6.6
+Crucible Tree Helm IconCrucible Tree Helm 	6.5 	5.0 	6.3 	5.6 	4.6 	4.2 	4.0 	5.2 	6.6
+Cuckoo Knight Helm IconCuckoo Knight Helm 	4.8 	4.0 	5.2 	4.8 	4.4 	4.2 	3.1 	3.6 	5.1
+Depraved Perfumer Headscarf IconDepraved Perfumer Headscarf 	2.0 	2.0 	1.7 	1.3 	4.6 	4.5 	4.4 	4.5 	2.1
+DiallosDiallos's Mask 	4.8 	3.8 	4.6 	4.4 	3.6 	3.6 	2.5 	3.4 	4.6
+Drake Knight Helm IconDrake Knight Helm 	4.0 	3.4 	4.2 	4.0 	3.6 	4.0 	3.1 	3.6 	4.0
+Duelist Helm IconDuelist Helm 	5.8 	5.2 	6.1 	6.1 	4.0 	4.5 	3.6 	4.2 	6.2
+EccentricEccentric's Hood 	4.4 	3.4 	4.2 	4.4 	3.4 	3.6 	2.3 	3.1 	4.0
+Elden Lord Crown IconElden Lord Crown 	3.8 	3.4 	3.6 	4.0 	2.5 	3.6 	2.1 	2.3 	3.6
+Envoy Crown IconEnvoy Crown 	2.8 	3.1 	3.1 	2.8 	5.3 	4.7 	4.9 	5.5 	3.8
+Exile Hood IconExile Hood 	4.4 	3.4 	4.6 	4.4 	2.8 	3.8 	2.3 	3.4 	4.0
+Festive Hood IconFestive Hood 	1.4 	1.8 	2.1 	1.8 	4.5 	4.2 	4.4 	4.6 	1.7
+FiaFia's Hood 	1.4 	1.8 	1.4 	1.4 	4.4 	4.2 	4.4 	4.6 	1.7
+Finger Maiden Fillet IconFinger Maiden Fillet 	1.4 	1.8 	1.8 	0.9 	4.6 	4.5 	4.6 	4.6 	1.6
+Fingerprint Helm IconFingerprint Helm 	4.8 	4.2 	4.2 	4.2 	3.4 	4.5 	2.3 	3.4 	4.6
+Fire Monk Hood IconFire Monk Hood 	4.6 	3.8 	4.2 	4.0 	3.1 	4.5 	2.5 	2.5 	4.0
+Fire Prelate Helm IconFire Prelate Helm 	7.0 	6.1 	6.7 	6.7 	4.8 	7.2 	4.6 	4.7 	10.6
+Foot Soldier Cap IconFoot Soldier Cap 	3.4 	3.6 	3.4 	3.4 	3.8 	4.0 	4.2 	3.8 	3.6
+Foot Soldier Helm IconFoot Soldier Helm 	10.2 	9.5 	8.8 	8.8 	10.9 	11.9 	11.9 	10.9 	8.3
+Foot Soldier Helmet IconFoot Soldier Helmet 	3.4 	3.4 	3.6 	3.6 	4.0 	4.0 	4.0 	3.6 	3.6
+Gelmir Knight Helm IconGelmir Knight Helm 	4.8 	4.0 	5.0 	4.8 	3.8 	4.4 	3.6 	3.8 	5.1
+Gilded Foot Soldier Cap IconGilded Foot Soldier Cap 	3.4 	3.8 	3.1 	3.6 	3.6 	3.8 	4.4 	3.8 	3.6
+Glintstone Scarab IconGlintstone Scarab 	-5.8 	-5.6 	-5.8 	-5.8 	-4.9 	-4.9 	-4.9 	-5.1 	5.1
+Godrick Knight Helm IconGodrick Knight Helm 	4.8 	4.2 	5.0 	4.6 	3.8 	4.2 	3.4 	3.8 	5.1
+Godrick Soldier Helm IconGodrick Soldier Helm 	4.4 	3.6 	4.4 	4.2 	3.1 	3.6 	2.5 	3.1 	4.0
+Godskin Apostle Hood IconGodskin Apostle Hood 	2.3 	2.1 	2.1 	1.4 	4.6 	4.4 	4.5 	5.0 	2.2
+Godskin Noble Hood IconGodskin Noble Hood 	1.4 	2.8 	1.8 	1.4 	4.5 	4.0 	4.2 	4.8 	1.7
+Great Horned Headband IconGreat Horned Headband 	2.8 	3.1 	2.8 	2.8 	3.1 	3.4 	3.8 	3.4 	3.3
+Greathelm IconGreathelm 	5.5 	4.2 	5.8 	5.2 	4.2 	4.6 	3.8 	4.2 	5.9
+Greathood IconGreathood 	3.8 	3.6 	3.8 	3.6 	5.5 	5.0 	5.5 	6.5 	5.1
+Guardian Mask IconGuardian Mask 	3.8 	3.6 	3.6 	3.4 	4.2 	4.0 	4.2 	4.2 	3.8
+Guilty Hood IconGuilty Hood 	0.9 	1.4 	1.8 	0.2 	4.4 	4.0 	4.5 	4.6 	1.4
+Haima Glintstone Crown IconHaima Glintstone Crown 	2.3 	2.5 	2.1 	2.3 	4.8 	4.5 	4.6 	4.6 	2.7
+Haligtree Helm IconHaligtree Helm 	4.4 	3.8 	4.2 	4.4 	2.8 	3.4 	2.5 	3.4 	4.0
+Haligtree Knight Helm IconHaligtree Knight Helm 	4.8 	4.4 	4.8 	4.8 	3.6 	4.0 	3.4 	4.0 	5.1
+Hierodas Glintstone Crown IconHierodas Glintstone Crown 	2.3 	2.3 	2.8 	2.3 	4.9 	4.7 	4.6 	4.9 	3.0
+High Page Hood IconHigh Page Hood 	0.9 	1.8 	0.9 	0.9 	4.6 	4.2 	4.4 	4.5 	1.4
+Highwayman Hood IconHighwayman Hood 	2.8 	3.6 	2.8 	3.1 	3.8 	3.8 	4.0 	3.6 	3.3
+HoslowHoslow's Helm 	4.7 	4.1 	4.7 	4.5 	3.5 	3.9 	2.4 	3.3 	4.4
+IjiIji's Mirrorhelm 	3.8 	3.8 	5.2 	5.2 	6.2 	4.6 	4.8 	5.8 	7.5
+Imp Head (Cat) IconImp Head (Cat) 	5.8 	5.2 	5.8 	6.1 	5.0 	5.8 	4.8 	5.0 	8.1
+Imp Head (Corpse) IconImp Head (Corpse) 	5.8 	5.2 	5.8 	6.1 	5.0 	5.8 	4.8 	5.0 	8.1
+Imp Head (Elder) IconImp Head (Elder) 	5.8 	5.2 	5.8 	6.1 	5.0 	5.8 	4.8 	5.0 	8.1
+Imp Head (Long-Tongued) IconImp Head (Long-Tongued) 	5.8 	5.2 	5.8 	6.1 	5.0 	5.8 	4.8 	5.0 	8.1
+Imp Head (Wolf) IconImp Head (Wolf) 	5.8 	5.2 	5.8 	6.1 	5.0 	5.8 	4.8 	5.0 	8.1
+Incantation Scarab IconIncantation Scarab 	5.8 	5.6 	5.8 	5.8 	4.9 	4.9 	4.9 	5.1 	5.1
+Iron Helmet IconIron Helmet 	4.4 	3.1 	4.0 	4.2 	2.5 	3.1 	2.3 	3.1 	3.8
+Iron Kasa IconIron Kasa 	3.6 	3.6 	4.2 	3.6 	4.0 	4.2 	4.4 	4.0 	3.8
+Jar IconJar 	6.8 	3.4 	7.0 	6.8 	4.7 	4.9 	4.6 	4.7 	6.8
+Juvenile Scholar Cap IconJuvenile Scholar Cap 	1.4 	1.8 	1.8 	1.4 	4.5 	4.0 	4.2 	4.4 	1.4
+Kaiden Helm IconKaiden Helm 	4.4 	3.4 	4.4 	4.4 	3.1 	3.4 	2.8 	3.1 	4.0
+Karolos Glintstone Crown IconKarolos Glintstone Crown 	5.0 	3.2 	6.2 	4.1 	3.0 	4.2 	2.2 	3.8 	6.0
+Knight Helm IconKnight Helm 	4.4 	4.2 	4.8 	4.8 	3.8 	3.8 	3.4 	3.1 	4.6
+Land of Reeds Helm IconLand of Reeds Helm 	3.1 	3.4 	4.2 	3.4 	3.6 	4.0 	4.2 	3.8 	3.6
+Lazuli Glintstone Crown IconLazuli Glintstone Crown 	4.4 	3.1 	5.2 	4.8 	4.4 	4.5 	3.4 	3.8 	5.1
+Leyndell Knight Helm IconLeyndell Knight Helm 	4.8 	4.4 	4.8 	4.8 	3.6 	4.0 	3.6 	3.8 	5.1
+Leyndell Soldier Helm IconLeyndell Soldier Helm 	4.4 	3.8 	4.2 	4.4 	2.8 	3.4 	2.8 	3.1 	4.0
+LionelLionel's Helm 	6.3 	5.9 	7.0 	7.2 	4.8 	5.3 	4.6 	4.8 	9.1
+LusatLusat's Glintstone Crown 	3.1 	2.3 	3.1 	2.3 	5.5 	4.6 	4.8 	4.9 	3.6
+MaleniaMalenia's Winged Helm 	4.4 	3.4 	4.6 	4.0 	2.8 	3.4 	2.3 	3.8 	4.0
+Malformed Dragon Helm IconMalformed Dragon Helm 	6.1 	5.4 	6.3 	6.1 	4.6 	4.6 	4.9 	4.6 	6.8
+MalikethMaliketh's Helm 	4.8 	4.2 	5.0 	4.8 	3.8 	4.0 	3.4 	4.6 	5.5
+Marais Mask IconMarais Mask 	2.1 	2.3 	1.8 	1.4 	4.6 	4.5 	4.5 	4.6 	2.2
+Marionette Soldier Birdhelm IconMarionette Soldier Birdhelm 	4.4 	3.1 	4.0 	3.8 	3.1 	3.1 	2.5 	2.5 	3.8
+Marionette Soldier Helm IconMarionette Soldier Helm 	4.4 	3.1 	4.0 	3.8 	3.1 	3.1 	2.3 	3.1 	3.8
+Mask of Confidence IconMask of Confidence 	2.5 	2.8 	2.5 	2.5 	5.5 	4.9 	4.8 	4.8 	3.6
+Mushroom Crown IconMushroom Crown 	5.8 	5.9 	6.8 	7.0 	4.8 	3.1 	4.6 	4.8 	9.1
+Mushroom Head IconMushroom Head 	2.1 	2.5 	0.9 	1.8 	4.7 	1.8 	4.6 	4.6 	2.2
+Navy Hood IconNavy Hood 	1.4 	2.1 	1.8 	0.9 	4.6 	4.7 	4.4 	4.5 	1.7
+Night Maiden Twin Crown IconNight Maiden Twin Crown 	2.5 	3.1 	2.5 	3.4 	4.2 	3.8 	4.0 	4.2 	3.3
+NightNight's Cavalry Helm 	5.0 	4.6 	5.0 	4.8 	3.8 	4.5 	3.8 	4.5 	5.5
+Nomadic MerchantNomadic Merchant's Chapeau 	2.8 	3.1 	2.5 	2.3 	3.4 	3.4 	3.4 	3.1 	3.0
+Nox Mirrorhelm IconNox Mirrorhelm 	4.0 	3.4 	5.5 	5.0 	6.7 	5.3 	4.2 	5.3 	7.5
+Nox Monk Hood IconNox Monk Hood 	2.8 	3.1 	2.8 	2.5 	4.0 	3.8 	3.8 	3.1 	3.0
+Nox Swordstress Crown IconNox Swordstress Crown 	2.8 	3.4 	2.8 	3.1 	4.4 	3.6 	4.2 	3.8 	3.3
+Octopus Head IconOctopus Head 	3.4 	5.4 	2.8 	2.8 	4.0 	3.6 	4.0 	3.8 	3.6
+Okina Mask IconOkina Mask 	3.4 	3.6 	4.0 	3.1 	3.8 	3.8 	4.2 	3.6 	3.6
+Old Aristocrat Cowl IconOld Aristocrat Cowl 	2.5 	2.5 	2.3 	2.5 	3.4 	3.6 	3.4 	2.5 	2.2
+Omen Helm IconOmen Helm 	6.7 	5.4 	6.8 	6.8 	4.6 	5.2 	5.3 	4.9 	9.9
+Omensmirk Mask IconOmensmirk Mask 	3.1 	2.8 	2.5 	2.5 	3.1 	3.4 	4.0 	3.6 	3.0
+Page Hood IconPage Hood 	6.7 	6.1 	5.3 	5.3 	12.8 	12.6 	13.0 	13.0 	5.1
+Perfumer Hood IconPerfumer Hood 	1.4 	2.1 	1.8 	1.4 	4.6 	4.2 	4.4 	4.6 	1.7
+PreceptorPreceptor's Big Hat 	2.5 	2.8 	2.5 	2.5 	5.5 	4.9 	4.8 	4.8 	3.6
+Prisoner Iron Mask IconPrisoner Iron Mask 	6.8 	5.9 	7.0 	6.8 	4.6 	4.9 	4.5 	4.8 	8.6
+Prophet Blindfold IconProphet Blindfold 	0.2 	0.9 	0.9 	0.2 	4.5 	4.2 	4.0 	4.5 	1.0
+Pumpkin Helm IconPumpkin Helm 	7.0 	5.9 	6.7 	6.7 	4.6 	4.7 	5.2 	4.5 	12.3
+QueenQueen's Crescent Crown 	2.1 	1.8 	1.8 	1.4 	4.9 	4.5 	4.6 	4.7 	2.2
+Radahn Soldier Helm IconRadahn Soldier Helm 	4.6 	3.4 	4.2 	4.0 	3.1 	3.8 	2.5 	3.1 	4.0
+RadahnRadahn's Redmane Helm 	6.8 	5.4 	6.7 	6.3 	4.8 	5.0 	4.5 	4.8 	7.5
+Radiant Gold Mask IconRadiant Gold Mask 	2.3 	2.1 	2.1 	1.4 	4.6 	4.5 	4.6 	4.8 	2.2
+Raging Wolf Helm IconRaging Wolf Helm 	4.7 	4.1 	4.7 	4.5 	3.5 	3.9 	2.4 	3.3 	4.4
+Raya Lucarian Helm IconRaya Lucarian Helm 	4.4 	3.4 	4.6 	4.4 	3.4 	3.6 	2.3 	2.8 	4.0
+Redmane Knight Helm IconRedmane Knight Helm 	5.0 	4.0 	4.8 	4.4 	3.8 	4.4 	3.4 	3.8 	5.1
+Rotten Duelist Helm IconRotten Duelist Helm 	5.5 	4.6 	5.8 	5.5 	4.5 	4.6 	4.4 	4.5 	6.4
+Royal Knight Helm IconRoyal Knight Helm 	5.8 	5.2 	6.3 	6.1 	5.0 	4.7 	4.4 	4.6 	6.6
+Royal Remains Helm IconRoyal Remains Helm 	4.2 	4.0 	4.6 	4.2 	3.4 	3.6 	2.8 	3.1 	4.6
+RulerRuler's Mask 	1.8 	2.3 	2.3 	1.4 	4.6 	4.4 	4.6 	4.7 	2.2
+Sacred Crown Helm IconSacred Crown Helm 	3.4 	3.8 	3.1 	3.6 	3.6 	3.8 	4.2 	4.0 	3.6
+Sage Hood IconSage Hood 	2.3 	2.1 	2.1 	1.4 	4.8 	4.5 	4.6 	4.8 	2.2
+Sanguine Noble Hood IconSanguine Noble Hood 	1.4 	0.9 	0.9 	0.9 	4.6 	3.8 	4.5 	4.6 	1.4
+Scaled Helm IconScaled Helm 	6.1 	5.2 	6.3 	6.1 	4.7 	4.9 	4.6 	4.7 	6.8
+Shining Horned Headband IconShining Horned Headband 	2.5 	2.8 	2.5 	3.6 	3.6 	3.4 	3.6 	3.1 	3.3
+Silver Tear Mask IconSilver Tear Mask 	4.2 	3.6 	3.8 	3.1 	5.5 	5.2 	5.0 	5.3 	4.6
+Skeletal Mask IconSkeletal Mask 	2.5 	2.8 	3.1 	3.1 	3.4 	3.4 	3.6 	3.1 	3.0
+Snow Witch Hat IconSnow Witch Hat 	1.8 	2.1 	2.1 	1.4 	4.6 	4.6 	4.6 	4.6 	2.2
+SpellbladeSpellblade's Pointed Hat 	1.3 	0.8 	1.3 	1.3 	4.5 	3.9 	4.1 	4.5 	1.5
+TravelerTraveler's Hat 	1.8 	1.8 	1.4 	0.9 	4.6 	4.6 	4.4 	4.6 	1.7
+Traveling Maiden Hood IconTraveling Maiden Hood 	1.4 	1.8 	1.8 	0.9 	4.6 	4.5 	4.6 	4.6 	1.6
+Tree Sentinel Helm IconTree Sentinel Helm 	6.8 	5.4 	6.8 	6.3 	4.6 	6.2 	4.5 	5.0 	8.1
+Twinned Helm IconTwinned Helm 	4.8 	4.4 	5.2 	4.2 	4.0 	4.0 	3.1 	3.6 	3.1
+Twinsage Glintstone Crown IconTwinsage Glintstone Crown 	4.4 	3.1 	5.2 	4.8 	4.4 	4.5 	3.4 	3.8 	5.1
+Vagabond Knight Helm IconVagabond Knight Helm 	4.6 	3.6 	4.2 	4.0 	3.1 	3.6 	2.8 	2.8 	4.0
+VeteranVeteran's Helm 	6.8 	6.1 	6.8 	6.3 	4.8 	5.0 	4.6 	4.7 	8.1
+Vulgar Militia Helm IconVulgar Militia Helm 	3.4 	3.8 	3.6 	3.1 	3.8 	3.8 	4.0 	3.8 	3.6
+White Mask IconWhite Mask 	2.7 	3.0 	3.3 	2.7 	3.5 	3.7 	3.9 	3.7 	3.2
+WitchWitch's Glintstone Crown 	4.4 	3.1 	5.2 	4.8 	4.4 	4.5 	3.4 	3.8 	5.1
+Zamor Mask IconZamor Mask 	4.2 	3.4 	4.4 	3.8 	3.1 	3.1 	2.1 	2.8 	3.8
