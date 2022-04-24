@@ -1,0 +1,135 @@
+Alberich's Robe  4.1
+All-Knowing Armor  10.7
+Aristocrat Coat  7.1
+Aristocrat Garb  4.9
+Aristocrat Garb (Altered)  4.1
+Astrologer Robe  6.3
+Azur's Glintstone Robe  7.1
+Bandit Garb  7.7
+Banished Knight Armor  16.5
+Battlemage Robe  4.1
+Beast Champion Armor  17.5
+Black Knife Armor  9.2
+Blackflame Monk Armor  11.8
+Blaidd's Armor  13.7
+Bloodhound Knight Armor  10.6
+Bloodsoaked Tabard  8.3
+Blue Cloth Vest  7.7
+Blue Festive Garb  4.1
+Blue Silver Mail Armor  9.2
+Briar Armor  11.8
+Bull-Goat Armor  26.5
+Carian Knight Armor  9.7
+Chain Armor  8.8
+Chain-Draped Tabard  8.3
+Champion Pauldron  5.1
+Cleanrot Armor  15.0
+Cloth Garb  3.2
+Commoner's Garb  5.1
+Commoner's Simple Garb  5.1
+Confessor Armor  8.3
+Consort's Robe  4.1
+Corhyn's Robe  6.3
+Crucible Axe Armor  15.5
+Crucible Tree Armor  15.5
+Cuckoo Knight Armor  11.8
+Cuckoo Surcoat  10.6
+Deathbed Dress  3.2
+Depraved Perfumer Robe  5.0
+Dirty Chainmail  8.8
+Drake Knight Armor  9.2
+Eccentric's Armor  10.6
+Elden Lord Armor  9.2
+Erdtree Surcoat  10.6
+Errant Sorcerer Robe  4.1
+Exile Armor  9.2
+Eye Surcoat  9.2
+Fell Omen Cloak  5.1
+Festive Garb  4.1
+Fia's Robe  5.1
+Finger Maiden Robe  4.6
+Fingerprint Armor  10.6
+Fire Monk Armor  11.8
+Fire Prelate Armor  24.7
+Foot Soldier Tabard  8.3
+Fur Rainment  5.1
+Gelmir Knight Armor  11.8
+Godrick Knight Armor  11.8
+Godskin Apostle Robe  4.1
+Godskin Noble Robe  6.3
+Goldmask's Rags  2.4
+Gravekeeper Cloak  6.3
+Guardian Garb  7.7
+Guardian Garb (Full Bloom)  8.8
+Haligtree Crest Surcoat  10.6
+Haligtree Knight Armor  11.8
+High Page Clothes  5.3
+Highwayman Cloth Armor  7.7
+Hoslow's Armor  10.1
+Ivory-Draped Tabard  8.3
+Juvenile Scholar Robe  4.1
+Kaiden Armor  8.8
+Knight Armor  10.6
+Land of Reeds Armor  8.3
+Lazuli Robe  4.1
+Leather Armor  7.1
+Leather-Draped Tabard  8.3
+Leyndell Knight Armor  3.9
+Lionel's Armor  21.2
+Lord Blood's Robe  8.1
+Lusat's Robe  7.1
+Malenia's Armor  7.7
+Malformed Dragon Armor  16.0
+Maliketh's Armor  12.8
+Marais Robe  4.1
+Marionette Soldier Armor  8.8
+Mausoleum Knight Armor  11.8
+Mushroom Body  5.1
+Night's Cavalry Armor  12.8
+Noble's Traveling Garb  6.3
+Nomadic Merchant's Finery  7.2
+Nox Monk Armor  8.1
+Nox Swordstress Armor  8.3
+Official's Attire  4.1
+Old Aristocrat Gown  5.1
+Omen Armor  23.1
+Omenkiller Robe  7.1
+Page Garb  5.1
+Perfumer Robe  5.1
+Perfumer's Traveling Garb  5.1
+Preceptor's Long Gown  6.3
+Prisoner Clothing  3.2
+Prophet Robe  6.3
+Queen's Robe  5.1
+Radahn's Lion Armor  17.5
+Raging Wolf Armor  10.1
+Raptor's Black Feathers  7.7
+Raya Lucarian Robe  4.1
+Redmane Knight Armor  11.8
+Redmane Surcoat  10.6
+Ronin's Armor  8.5
+Rotten Gravekeeper Cloak  6.3
+Royal Knight Armor  15.5
+Royal Remains Armor  10.6
+Ruler's Robe  5.1
+Sage Robe  5.1
+Sanguine Noble Robe  5.1
+Scale Armor  8.8
+Scaled Armor  16.0
+Scarlet Tabard  8.3
+Shaman Furs  5.1
+Snow Witch Robe  5.5
+Spellblade's Traveling Attire  3.3
+Traveler's Clothes  4.1
+Traveling Maiden Robe  4.9
+Tree Sentinel Armor  18.9
+Tree Surcoat  9.2
+Tree-and-Beast Surcoat  10.6
+Twinned Armor  13.7
+Upper-Class Robe  4.1
+Vagabond Knight Armor  10.6
+Veteran's Armor  18.9
+Vulgar Militia Armor  7.7
+War Surgeon Gown  6.9
+White Reed Armor  8.3
+Zamor Armor  8.8

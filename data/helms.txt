@@ -1,0 +1,151 @@
+Alberich's Pointed Hat  1.7
+Albinauric Mask  3.8
+All-Knowing Helm  4.6
+Aristocrat Hat  3.0
+Aristocrat Headband  1.2
+Ash-of-War Scarab  5.1
+Astrologer Hood  1.7
+Azur's Glintstone Crown  3.6
+Bandit Mask  3.0
+Banished Knight Helm  7.5
+Beast Champion Helm  7.5
+Black Hood  3.0
+Black Knife Hood  3.8
+Black Wolf Mask  5.9
+Blackflame Monk Hood  4.0
+Blackguard's Iron Mask  6.2
+Bloodhound Knight Helm  4.6
+Bloodsoaked Mask  2.2
+Blue Cloth Cowl  2.7
+Blue Festive Hood  1.7
+Blue Silver Mail Hood  3.8
+Briar Helm  5.1
+Bull-Goat Helm  11.3
+Carian Knight Helm  4.6
+Cerulean Tear Scarab  5.1
+Chain Coif  3.8
+Champion Headband  2.7
+Cleanrot Helm  6.4
+Commoner's Headband  1.4
+Commoner's Headband (Altered)  0.7
+Confessor Hood  3.3
+Consort's Mask  3.6
+Crimson Hood  1.7
+Crimson Tear Scarab  5.1
+Crucible Axe Helm  6.6
+Crucible Tree Helm  6.6
+Cuckoo Knight Helm  5.1
+Depraved Perfumer Headscarf  2.1
+Diallos's Mask  4.6
+Drake Knight Helm  4.0
+Duelist Helm  6.2
+Eccentric's Hood  4.0
+Elden Lord Crown  3.6
+Envoy Crown  3.8
+Exile Hood  4.0
+Festive Hood  1.7
+Fia's Hood  1.7
+Finger Maiden Fillet  1.6
+Fingerprint Helm  4.6
+Fire Monk Hood  4.0
+Fire Prelate Helm  10.6
+Foot Soldier Cap  3.6
+Foot Soldier Helm  8.3
+Foot Soldier Helmet  3.6
+Gelmir Knight Helm  5.1
+Gilded Foot Soldier Cap  3.6
+Glintstone Scarab  5.1
+Godrick Knight Helm  5.1
+Godrick Soldier Helm  4.0
+Godskin Apostle Hood  2.2
+Godskin Noble Hood  1.7
+Great Horned Headband  3.3
+Greathelm  5.9
+Greathood  5.1
+Guardian Mask  3.8
+Guilty Hood  1.4
+Haima Glintstone Crown  2.7
+Haligtree Helm  4.0
+Haligtree Knight Helm  5.1
+Hierodas Glintstone Crown  3.0
+High Page Hood  1.4
+Highwayman Hood  3.3
+Hoslow's Helm  4.4
+Iji's Mirrorhelm  7.5
+Imp Head (Cat)  8.1
+Imp Head (Corpse)  8.1
+Imp Head (Elder)  8.1
+Imp Head (Long-Tongued)  8.1
+Imp Head (Wolf)  8.1
+Incantation Scarab  5.1
+Iron Helmet  3.8
+Iron Kasa  3.8
+Jar  6.8
+Juvenile Scholar Cap  1.4
+Kaiden Helm  4.0
+Karolos Glintstone Crown  6.0
+Knight Helm  4.6
+Land of Reeds Helm  3.6
+Lazuli Glintstone Crown  5.1
+Leyndell Knight Helm  5.1
+Leyndell Soldier Helm  4.0
+Lionel's Helm  9.1
+Lusat's Glintstone Crown  3.6
+Malenia's Winged Helm  4.0
+Malformed Dragon Helm  6.8
+Maliketh's Helm  5.5
+Marais Mask  2.2
+Marionette Soldier Birdhelm  3.8
+Marionette Soldier Helm  3.8
+Mask of Confidence  3.6
+Mushroom Crown  9.1
+Mushroom Head  2.2
+Navy Hood  1.7
+Night Maiden Twin Crown  3.3
+Night's Cavalry Helm  5.5
+Nomadic Merchant's Chapeau  3.0
+Nox Mirrorhelm  7.5
+Nox Monk Hood  3.0
+Nox Swordstress Crown  3.3
+Octopus Head  3.6
+Okina Mask  3.6
+Old Aristocrat Cowl  2.2
+Omen Helm  9.9
+Omensmirk Mask  3.0
+Page Hood  5.1
+Perfumer Hood  1.7
+Preceptor's Big Hat  3.6
+Prisoner Iron Mask  8.6
+Prophet Blindfold  1.0
+Pumpkin Helm  12.3
+Queen's Crescent Crown  2.2
+Radahn Soldier Helm  4.0
+Radahn's Redmane Helm  7.5
+Radiant Gold Mask  2.2
+Raging Wolf Helm  4.4
+Raya Lucarian Helm  4.0
+Redmane Knight Helm  5.1
+Rotten Duelist Helm  6.4
+Royal Knight Helm  6.6
+Royal Remains Helm  4.6
+Ruler's Mask  2.2
+Sacred Crown Helm  3.6
+Sage Hood  2.2
+Sanguine Noble Hood  1.4
+Scaled Helm  6.8
+Shining Horned Headband  3.3
+Silver Tear Mask  4.6
+Skeletal Mask  3.0
+Snow Witch Hat  2.2
+Spellblade's Pointed Hat  1.5
+Traveler's Hat  1.7
+Traveling Maiden Hood  1.6
+Tree Sentinel Helm  8.1
+Twinned Helm  3.1
+Twinsage Glintstone Crown  5.1
+Vagabond Knight Helm  4.0
+Veteran's Helm  8.1
+Vulgar Militia Helm  3.6
+White Mask  3.2
+Witch's Glintstone Crown  5.1
+Zamor Mask  3.8

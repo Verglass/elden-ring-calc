@@ -1,0 +1,89 @@
+Alberich's Bracers  1.4
+All-Knowing Gauntlets  3.5
+Astrologer Gloves  1.4
+Azur's Manchettes  1.1
+Bandit Manchettes  1.7
+Banished Knight Gauntlets  5.8
+Battlemage Manchettes  1.1
+Beast Champion Gauntlets  5.8
+Black Knife Gauntlets  3.1
+Blackflame Monk Gauntlets  3.9
+Blaidd's Gauntlets  4.6
+Bloodhound Knight Gauntlets  3.5
+Bloodsoaked Manchettes  1.4
+Blue Silver Bracelets  2.1
+Briar Gauntlets  3.9
+Bull-Goat Gauntlets  8.8
+Carian Knight Gauntlets  3.5
+Chain Gauntlets  2.9
+Champion Bracers  2.1
+Cleanrot Gauntlets  5.0
+Confessor Gloves  2.8
+Crucible Gauntlets  5.2
+Cuckoo Knight Gauntlets  3.9
+Depraved Perfumer Gloves  2.0
+Drake Knight Gauntlets  3.1
+Eccentric's Manchettes  2.9
+Elden Lord Bracers  3.1
+Errant Sorcerer Manchettes  1.1
+Exile Gauntlets  2.9
+Fingerprint Gauntlets  3.5
+Fire Monk Gauntlets  3.9
+Fire Prelate Gauntlets  8.2
+Foot Soldier Gauntlets  2.6
+Gelmir Knight Gauntlets  3.9
+Godrick Knight Gauntlets  3.9
+Godrick Soldier Gauntlets  3.5
+Godskin Apostle Bracelets  2.1
+Godskin Noble Bracelets  1.7
+Gold Bracelets  0.8
+Guardian Bracers  2.9
+Haligtree Gauntlets  3.5
+Haligtree Knight Gauntlets  3.9
+Highwayman Gauntlets  2.6
+Hoslow's Gauntlets  3.4
+Iron Gauntlets  2.9
+Kaiden Gauntlets  2.9
+Knight Gauntlets  3.5
+Land of Reeds Gauntlets  2.8
+Leather Gloves  2.4
+Leyndell Knight Gauntlets  3.9
+Leyndell Soldier Gauntlets  3.5
+Lionel's Gauntlets  7.1
+Lusat's Manchettes  1.1
+Malenia's Gauntlet  3.1
+Malformed Dragon Gauntlets  5.3
+Maliketh's Gauntlets  4.3
+Mausoleum Knight Gauntlets  3.9
+Mushroom Arms  1.7
+Night's Cavalry Gauntlets  4.3
+Noble's Gloves  2.1
+Nox Monk Bracelets  2.6
+Omen Gauntlets  7.7
+Omenkiller Long Gloves  2.4
+Perfumer Gloves  1.4
+Preceptor's Gloves  2.1
+Queen's Bracelets  1.7
+Radahn Soldier Gauntlets  3.5
+Radahn's Gauntlets  5.8
+Raging Wolf Gauntlets  3.4
+Raya Lucarian Gauntlets  3.5
+Redmane Knight Gauntlets  3.9
+Ronin's Gauntlets  3.1
+Royal Knight Gauntlets  5.2
+Royal Remains Gauntlets  3.5
+Scaled Gauntlets  5.3
+Sorcerer Manchettes  1.1
+Spellblade's Gloves  1.2
+Traveler's Gloves  1.4
+Traveler's Manchettes  1.7
+Traveling Maiden Gloves  1.6
+Tree Sentinel Gauntlets  6.3
+Twinned Gauntlets  3.9
+Vagabond Knight Gauntlets  3.5
+Veteran's Gauntlets  6.3
+Vulgar Militia Gauntlets  2.1
+War Surgeon Gloves  2.3
+Warrior Gauntlets  2.6
+White Reed Gauntlets  2.8
+Zamor Bracelets  2.8

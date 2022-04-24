@@ -1,0 +1,172 @@
+A
+	Icerind Hatchet-image
+Icerind Hatchet
+Causes frostbite buildup (65)
+	
+Axe
+Standard
+	
+Str: E
+Dex: D
+	
+Hoarfrost Stomp
+	3	111	0	0	0	0
+B
+	Rosus' Axe-image
+Rosus' Axe
+	
+Axe
+Standard
+	
+Str: D
+Dex: E
+Int: D
+	
+Rosus's Summons
+	5.5	106	68	0	0	0
+B
+	Gargoyle's Black Axe-image
+Gargoyle's Black Axe
+	
+Axe
+Standard
+	
+Str: D
+Dex: E
+Fai: D
+	
+War Cry
+	8.5	100	0	0	0	120
+E
+	Celebrant's Cleaver-image
+Celebrant's Cleaver
+Grants runes upon landing attacks.
+	
+Axe
+Standard
+	
+Str: D
+Dex: D
+	
+Wild Strkes
+	4.5	119	0	0	0	0
+E
+	Battle Axe-image
+Battle Axe
+	
+Axe
+Standard
+	
+Str: D
+Dex: D
+	
+Wild Strikes
+	4.5	123	0	0	0	0
+E
+	Jawbone Axe-image
+Jawbone Axe
+	
+Axe
+Standard
+	
+Str: D
+Dex: E
+	
+Wild Strikes
+	5.5	124	0	0	0	0
+E
+	Sacrificial Axe-image
+Sacrificial Axe
+A small amount of FP is restored upon slaying a foe.
+	
+Axe
+Standard
+	
+Str: D
+Dex: D
+	
+Wild Strikes
+	5.5	128	0	0	0	0
+E
+	Warped Axe-image
+Warped Axe
+	
+Axe
+Standard
+	
+Str: C
+	
+War Cry
+	7.5	118	0	0	0	0
+E
+	Highland Axe-image
+Highland Axe
+	
+Axe
+Standard
+	
+Str: D
+Dex: D
+	
+War Cry
+	4.5	123	0	0	0	0
+E
+	Iron Cleaver-image
+Iron Cleaver
+	
+Axe
+Standard
+	
+Str: C
+Dex: E
+	
+Wild Strikes
+	6	120	0	0	0	0
+E
+	Stormhawk Axe-image
+Stormhawk Axe
+	
+Axe
+Standard
+	
+Str: D
+Dex: D
+	
+Thunderstorm
+	5.5	130	0	0	0	0
+F
+	Ripple Blade-image
+Ripple Blade
+	
+Axe
+Standard
+	
+Arc: A
+	
+Wild Strkes
+	4.5	70	0	0	0	0
+F
+	Forked Hatchet-image
+Forked Hatchet
+Causes blood loss buildup (50)
+	
+Axe
+Standard
+	
+Str: D
+Dex: D
+	
+Quickstep
+	2.5	101	0	0	0	0
+F
+	Hand Axe-image
+Hand Axe
+	
+Axe
+Standard
+	
+Str: D
+Dex: D
+	
+Quickstep
+	3.5	113	0	0	0	0

@@ -1,0 +1,103 @@
+Alberich's Trousers  2.5
+All-Knowing Greaves  6.6
+Aristocrat Boots  2.9
+Astrologer Trousers  3.9
+Bandit Boots  4.4
+Banished Knight Greaves  10.8
+Battlemage Legwraps  2.5
+Beast Champion Greaves  10.8
+Black Knife Greaves  5.7
+Blackflame Monk Greaves  7.3
+Blaidd's Greaves  8.5
+Bloodhound Knight Greaves  6.6
+Blue Silver Mail Skirt  5.5
+Briar Greaves  7.3
+Bull-Goat Greaves  16.4
+Carian Knight Greaves  6.6
+Chain Leggings  5.5
+Champion Gaiters  3.9
+Cleanrot Greaves  9.3
+Cloth Trousers  2.0
+Commoner's Shoes  2.0
+Confessor Boots  4.8
+Consort's Trousers  2.5
+Crucible Greaves  9.6
+Cuckoo Knight Greaves  7.3
+Depraved Perfumer Trousers  4.3
+Drake Knight Greaves  5.7
+Duelist Greaves  7.3
+Eccentric's Breeches  5.1
+Elden Lord Greaves  5.5
+Errant Sorcerer Boots  3.1
+Exile Greaves  5.7
+Finger Maiden Shoes  2.5
+Fingerprint Greaves  6.6
+Fire Monk Greaves  7.3
+Fire Prelate Greaves  15.3
+Foot Soldier Greaves  5.1
+Fur Leggings  3.1
+Gelmir Knight Greaves  7.3
+Godrick Knight Greaves  7.3
+Godrick Soldier Greaves  6.6
+Godskin Apostle Trousers  2.5
+Godskin Noble Trousers  2.5
+Gold Waistwrap  4.4
+Guardian Greaves  5.5
+Haligtree Greaves  6.6
+Haligtree Knight Greaves  7.3
+Hoslow's Greaves  6.3
+Kaiden Trousers  5.1
+Knight Greaves  6.6
+Land of Reeds Greaves  5.1
+Leather Boots  4.4
+Leather Trousers  5.5
+Leyndell Knight Greaves  7.3
+Leyndell Soldier Greaves  6.6
+Lionel's Greaves  13.1
+Malenia's Greaves  5.7
+Malformed Dragon Greaves  9.9
+Maliketh's Greaves  7.9
+Mausoleum Knight Greaves  7.3
+Mushroom Legs  3.1
+Night's Cavalry Greaves  7.9
+Noble's Trousers  3.9
+Nomadic Merchant's Trousers  4.4
+Nox Monk Greaves  5.1
+Old Aristocrat Shoes  2.0
+Old Sorcerer's Legwraps  2.5
+Omen Greaves  14.3
+Omenkiller Boots  4.4
+Page Trousers  2.5
+Perfumer Sarong  2.5
+Preceptor's Trousers  3.9
+Prisoner Trousers  2.0
+Prophet Trousers  3.1
+Queen's Leggings  2.0
+Radahn Soldier Greaves  6.6
+Radahn's Greaves  10.8
+Raging Wolf Greaves  6.3
+Raya Lucarian Greaves  6.6
+Redmane Knight Greaves  7.3
+Ronin's Greaves  5.7
+Rotten Duelist Greaves  7.3
+Royal Knight Greaves  9.6
+Royal Remains Greaves  6.6
+Sage Trousers  2.5
+Sanguine Noble Waistcloth  2.5
+Scaled Greaves  9.9
+Shaman Leggings  3.1
+Snow Witch Skirt  3.1
+Sorcerer Leggings  2.0
+Spellblade's Trousers  2.6
+Traveler's Boots  3.1
+Traveler's Slops  2.5
+Traveling Maiden Boots  2.9
+Tree Sentinel Greaves  11.7
+Twinned Greaves  7.3
+Vagabond Knight Greaves  5.7
+Veteran's Greaves  11.7
+Vulgar Militia Greaves  5.1
+War Surgeon Trousers  4.2
+Warrior Greaves  4.8
+White Reed Greaves  5.1
+Zamor Legwraps  5.1
